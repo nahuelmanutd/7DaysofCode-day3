@@ -1,0 +1,5 @@
+1- ¿En qué área quiere especializarse? Front-end | Back-end
+2- En caso de Front-end: ¿Qué le gustaría aprender de este área? React | Vue
+2.5- En caso de Back-end: ¿Qué le gustaría aprender de este área? C# | Java
+3- ¿Tiene pensado seguir aprendiendo [Área elegida] o convertirse en Full-stack? [Área elegida] | Full-stack
+4- ¿Hay otras tecnologías que le gustaría aprender? (prompt) Seguir | Finalizar
